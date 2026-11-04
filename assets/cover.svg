@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="310" viewBox="0 0 1280 310">
+<rect width="1280" height="310" rx="18" fill="#111d2b"/>
+<rect x="54" y="54" width="5" height="202" rx="2" fill="#6ed6b5"/>
+<text x="88" y="86" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#6ed6b5">ANDREY MURZYKOV / PROJECTS</text>
+<text x="86" y="153" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#f4f7fa">PS Store Price Finder</text>
+<text x="88" y="199" font-family="Arial,sans-serif" font-size="23" fill="#c4d0dc">Поиск и сравнение предложений PlayStation Store</text>
+<text x="88" y="250" font-family="Arial,sans-serif" font-size="17" fill="#91a5b9">PYTHON / PYSIDE6 / GRAPHQL / PLAYWRIGHT</text>
+</svg>
