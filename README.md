@@ -4,7 +4,7 @@
 
 PS Store Price Finder собирает предложения PlayStation Store по Украине и Турции в общую таблицу. Сотрудник находит нужную игру, сравнивает региональные цены и скидки, видит условия подписок и стоимость в тенге. Программа сокращает время ручного поиска и упрощает сравнение торговой информации.
 
-[Скачать Windows-сборку](https://github.com/RedTowerInc/ps-store-price-finder/releases/latest) · [Как запустить](docs/quick-start.md) · [Версия 0.1.120](CHANGELOG.md)
+[Скачать Windows-сборку](https://github.com/RedTowerInc/ps-store-price-finder/releases/latest) · [Как запустить](docs/quick-start.md) · [Портфолио в PDF](docs/portfolio.pdf)
 
 ## Рабочие сценарии
 
